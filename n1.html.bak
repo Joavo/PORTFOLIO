@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="aa.css">
+<title>PORTFOLIO</title>
+</head>
+<body>
+<div class="hero">
+<video autoplay loop muted plays-inline class ="video">
+<source src="images/R.mp4" type="video/mp4"></video>
+<nav>
+<img src="images/q.jfif" class ="logo">
+<ul>
+<li><a href ="#"><b>CERTIFICATES<b></a></li>
+<li><a href ="#"><b>PROJECTS<b></a></li>
+<li><a href ="#"><b>ASPIRATIONS<b></a></li>
+<li><a href ="#"><b>SKILL SET<b></a></li>
+<li><a href ="#"><b>BACKGROUND</b></a></li>
+
+</ul>
+
+</nav>
+
+<div class ="content">
+</br>
+</br>
+<h1> HI ..!! I AM AKHILA KARAGATLA </h1>
+</br>
+
+
+</body>
+</html>
